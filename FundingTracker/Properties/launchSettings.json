@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FundingTracker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
